@@ -21,3 +21,9 @@ function logTest () {
   console.log("here comes the grannies!");
 }
 ```
+
+# So...what do we need to do?
+
+- [X] Let's learn about headers and images 
+- [X] Add a code block
+- [ ] Figure out what parts of this actually would work
