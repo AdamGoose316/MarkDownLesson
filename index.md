@@ -14,3 +14,4 @@ Yikes, this is Thing 2
 
 And here is thing three!
 
+![Image of family](Family.jpg)
